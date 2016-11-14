@@ -10,7 +10,7 @@ import java.lang.reflect.Modifier;
 import static org.junit.Assert.*;
 
 
-public class BinaryCalculatorTest {
+public class DecimalCalculatorTest {
     IOperand firstOperand;
     IOperand secondOperand;
     DecimalCalculator binaryCalculator;
